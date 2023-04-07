@@ -8,7 +8,7 @@ Front-End Developer with a proven ability to collaborate effectively with senior
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [maazs183@gmail.com](mailto:maazs183@gmail.com)
-* 🤝  I'm open to collaborating on Angular
+* 🤝  I'm open to collaborating on ReactJS
 
 ### Skills
 
